@@ -1,0 +1,32 @@
+# application distributives
+*.apk
+*.ap_
+
+# compiled sources (Java, Dalvik)
+*.class
+*.dex
+
+# builds
+build/
+gen/
+# logs, snapshots & head dumps captures
+captures/
+powertools.log
+.externalNativeBuild
+
+# local configuration
+local.properties
+
+# thumbnails
+Thumbs.db
+.DS_Store
+
+# Android Studio project files
+.idea/
+*.iml
+
+# Gradle cache
+.gradle
+
+# NodeJS
+node_modules/
