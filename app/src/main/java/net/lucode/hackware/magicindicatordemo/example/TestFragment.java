@@ -1,14 +1,15 @@
 package net.lucode.hackware.magicindicatordemo.example;
 
 import android.os.Bundle;
-import android.support.annotation.Nullable;
-import android.support.v4.app.Fragment;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
 import net.lucode.hackware.magicindicatordemo.R;
+
+import androidx.annotation.Nullable;
+import androidx.fragment.app.Fragment;
 
 /**
  * Created by hackware on 2016/9/13.

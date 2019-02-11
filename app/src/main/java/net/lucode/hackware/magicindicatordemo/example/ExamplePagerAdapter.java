@@ -1,13 +1,14 @@
 package net.lucode.hackware.magicindicatordemo.example;
 
 import android.graphics.Color;
-import android.support.v4.view.PagerAdapter;
 import android.view.Gravity;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
 import java.util.List;
+
+import androidx.viewpager.widget.PagerAdapter;
 
 /**
  * Created by hackware on 2016/9/10.
